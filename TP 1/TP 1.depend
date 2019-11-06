@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1573062440 source:c:\users\lucas\desktop\tp miop\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
+1573062440 c:\users\lucas\desktop\tp miop\tp 1\calculadora.h
+
+1573062473 source:c:\users\lucas\desktop\tp miop\tp 1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"calculadora.h"
+
