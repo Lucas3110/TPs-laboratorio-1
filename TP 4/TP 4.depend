@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1574087722 source:c:\users\lucas\desktop\tp 4 post\tp 4 - copia\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"utn.h"
+
+1574087764 c:\users\lucas\desktop\tp 4 post\tp 4 - copia\linkedlist.h
+
+1574087722 c:\users\lucas\desktop\tp 4 post\tp 4 - copia\employee.h
+
+1574087722 c:\users\lucas\desktop\tp 4 post\tp 4 - copia\parser.h
+
+1574087722 c:\users\lucas\desktop\tp 4 post\tp 4 - copia\utn.h
+
+1574087722 source:c:\users\lucas\desktop\tp 4 post\tp 4 - copia\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"utn.h"
+
+1574087780 source:c:\users\lucas\desktop\tp 4 post\tp 4 - copia\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1574087722 source:c:\users\lucas\desktop\tp 4 post\tp 4 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1574087722 c:\users\lucas\desktop\tp 4 post\tp 4 - copia\controller.h
+
+1574087722 source:c:\users\lucas\desktop\tp 4 post\tp 4 - copia\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1574087722 source:c:\users\lucas\desktop\tp 4 post\tp 4 - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<time.h>
+
